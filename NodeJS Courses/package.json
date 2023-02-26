@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dayjs": "^1.10.6",
+    "express": "^4.17.1",
+    "xlsx": "^0.17.1"
+  },
+  "name": "nodejs-courses",
+  "version": "1.0.0",
+  "description": "prueba de nodejs",
+  "main": "modulos_node.js",
+  "scripts": {
+    "start": "node modulos_node.js"
+  },
+  "keywords": [
+    "node",
+    "curso"
+  ],
+  "author": "veronica",
+  "license": "ISC"
+}

@@ -1,0 +1,6 @@
+notas:
+    /*para ejecutar en consola se 
+    utiliza el comando npm start*/
+   // "desarrollo": "node modulos_node.js"
+    /*para ejecutar en consola se utiliza 
+    el comando npm run desarrollo*/
