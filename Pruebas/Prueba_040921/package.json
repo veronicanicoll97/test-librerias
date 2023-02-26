@@ -1,0 +1,16 @@
+{
+  "name": "prueba_040921",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.6",
+    "fs": "0.0.1-security",
+    "xlsx": "^0.17.1"
+  }
+}
